@@ -10,5 +10,6 @@ module.exports = {
     es6: true,
     jest: true,
     node: true,
+    jquery: true,
   }
 }
